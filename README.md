@@ -6,7 +6,8 @@ It's super easy to use and customise.
 ## Installation
 
 **Using Swift Package Manager:**
-https://github.com/Priva28/ParallaxSwiftUI
+Authors original: https://github.com/Priva28/ParallaxSwiftUI
+AtomicLemon's: https://github.com/AtomicLemon/ParallaxSwiftUI
 
 Or you can just copy the `ParallaxSwiftUI.swift` file to your project.
 
